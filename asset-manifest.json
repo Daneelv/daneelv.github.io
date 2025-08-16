@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f9dcfce.css",
+    "main.js": "/static/js/main.c2477aa5.js",
+    "static/js/453.5d79306b.chunk.js": "/static/js/453.5d79306b.chunk.js",
+    "static/media/dev-space.png": "/static/media/dev-space.dbcbb38c87c71cf088e2.png",
+    "static/media/rent-a-prop.png": "/static/media/rent-a-prop.680b998c47c5d5513e8d.png",
+    "static/media/shoply.png": "/static/media/shoply.f3a8863c90276d3b4704.png",
+    "static/media/amazing-shoes.png": "/static/media/amazing-shoes.51dd23c0ddd47ee13be0.png",
+    "static/media/Daneel van Tonder Resume.pdf": "/static/media/Daneel van Tonder Resume.dafbefafda01c9eb7531.pdf",
+    "static/media/learn-to-code.png": "/static/media/learn-to-code.7eeca4a22ea43c234cf8.png",
+    "static/media/home-main.svg": "/static/media/home-main.f5a0516737088416cdc9daa1acbc2152.svg",
+    "static/media/ticket-logger.png": "/static/media/ticket-logger.bff9df33eea5fe71d5cf.png",
+    "static/media/profile.jpeg": "/static/media/profile.9631a4c71b78c5a910c5.jpeg",
+    "static/media/logo.png": "/static/media/logo.a473b760a57dae0ee664.png",
+    "static/media/about.svg": "/static/media/about.198838d39f8e3beff11a9dbe83f5a7bc.svg",
+    "static/media/pre.svg": "/static/media/pre.217b7654a28aca172d4d.svg",
+    "index.html": "/index.html",
+    "main.4f9dcfce.css.map": "/static/css/main.4f9dcfce.css.map",
+    "main.c2477aa5.js.map": "/static/js/main.c2477aa5.js.map",
+    "453.5d79306b.chunk.js.map": "/static/js/453.5d79306b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f9dcfce.css",
+    "static/js/main.c2477aa5.js"
+  ]
+}
